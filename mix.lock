@@ -1,0 +1,9 @@
+%{
+  "edbg": {:hex, :edbg, "0.9.5", "193cfb1036e4f86e4e7a890f981f348b82d7b8c09cee253913bb8df200306d37", [:rebar3], [{:pp_record, "0.1.3", [hex: :pp_record, repo: "hexpm", optional: false]}], "hexpm", "a3c3a29315fba84a662aad2ad7833681473c4cea848ea17a5d3345999152da10"},
+  "entrace": {:git, "https://github.com/lawik/entrace.git", "fb5034ff9bcd17e7e5aec03ca02c4d7afd07c716", []},
+  "ex2ms": {:git, "https://github.com/lawik/ex2ms.git", "4a62002ab66dd9287ae917a4b159c7ac7250b7be", [ref: "actions-current-stacktrace-caller-line"]},
+  "pp_record": {:hex, :pp_record, "0.1.3", "bdb1ed564d9be9b2cb4bdcf0979073ec417378169b3dda760922c7455a0314d3", [:rebar3], [], "hexpm", "70fdd67ddf1c7630cc2c6d22bcec6ef4d81215db2406f4ca75f3a3ec3a2a334d"},
+  "recon": {:hex, :recon, "2.3.6", "2bcad0cf621fb277cabbb6413159cd3aa30265c2dee42c968697988b30108604", [:rebar3], [], "hexpm", "f55198650a8ec01d3efc04797abe550c7d023e7ff8b509f373cf933032049bd8"},
+  "recon_ex": {:hex, :recon_ex, "0.9.1", "51558b6eb347753dcf9c884ba68d49dbbec607fc4296815b72a0c8995d5d3203", [:mix], [{:recon, "~> 2.3.1", [hex: :recon, repo: "hexpm", optional: false]}], "hexpm", "ca124759162c082adbb29078eadb9ab102425493c94387221d1e11acd0e050f7"},
+  "redbug": {:hex, :redbug, "2.0.9", "47a0802ea5ca5f2c54bd9b0be429ff3ac839e85a277e97105d7e6107174b25f3", [:rebar3], [], "hexpm", "048cecdd53183a57e0f8a3f81bed2ea4c3ad424d319eabd5ef158b9fc3ea2c69"},
+}
