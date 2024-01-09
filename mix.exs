@@ -24,7 +24,7 @@ defmodule Tracetalk.MixProject do
     [
       {:redbug, "~> 2.0"},
       {:recon, "~> 2.3"},
-      {:recon_ex, "~> 0.9.1"},
+      #{:recon_ex, "~> 0.9.1"},
       {:edbg, "~> 0.9.5"},
       {:entrace, github: "lawik/entrace"}
     ]
